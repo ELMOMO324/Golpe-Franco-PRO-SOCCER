@@ -1,0 +1,11 @@
+{
+  "name": "futbol3d",
+  "version": "0.1.0",
+  "description": "Videojuego de fútbol 3D original (WebGL2, sin dependencias en tiempo de ejecución)",
+  "type": "module",
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "test": "node tools/simtest.mjs"
+  },
+  "license": "MIT"
+}
